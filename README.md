@@ -1,2 +1,2 @@
 # nextjs-dashboard
-nextjs dashboard practice
+this github for nextjs dashboard practice
